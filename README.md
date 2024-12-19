@@ -7,8 +7,8 @@ Random Forest is inherently a non-linear classifier, making it effective at hand
 
 In conclusion Random Forest is a highly effective algorithm for Banknote Authentication, offering excellent accuracy, robustness to noise, and scalability. Its ensemble approach to classification, ability to handle complex and non-linear relationships, and feature importance analysis make it a strong candidate for detecting counterfeit banknotes. While it has some challenges, such as potential memory consumption and slower predictions, its strengths in handling large, imbalanced datasets and its resistance to overfitting make it well-suited for real- world banknote authentication systems.
 
-Steps :
-Step 1: Loading the Dataset
-Step 2: Training the model
-Step 3: Feature Extraction from the input image
-Step 4: Prediction note whether Original or Fake
+Steps :\n
+Step 1: Loading the Dataset\n
+Step 2: Training the model\n
+Step 3: Feature Extraction from the input image\n
+Step 4: Prediction note whether Original or Fake\n
